@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine learning , Data Science , Data Analytics and Cloud technologies**
 
-- 📫 How to reach me **adnenkhiari484@gmail.com**
+- 📫 How to reach me **adnenkhiari484@gmail.com** / https://www.linkedin.com/in/adnenkhiari/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
